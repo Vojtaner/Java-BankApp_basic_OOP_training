@@ -1,9 +1,19 @@
-# Java-BankApp_basic_OOP_training
+Java BankApp - Basic OOP Training
+This project serves as a fundamental exploration of Object-Oriented Programming (OOP) principles in the Java programming language. The BankApp is designed to simulate a simple banking system with three distinct types of accounts, each equipped with its own set of tasks. Separating concerns and assigning specific responsibilities to each class was one of main aims. 
 
-I have created basic project for learning OOP principles in Java language. It is a simple BankApp where are 3 different type of accounts that can be created, each account has own menu, 
-it means set of task.
-**Customer** can withdraw, deposit, transfer,log out.
-**Employee** can see detail of inputed bankaccount, log out.
-**Admin** can delete account, see all accounts at once,log out.
+**Account Types:**
+**Customer Account:**
+Withdraw funds
+Deposit funds
+Transfer funds
+Log out
+**Employee Account:**
 
-I attached PDF file were i show all different possibilities within the programm.
+View details of a specified bank account
+Log out
+**Admin Account:**
+
+Delete an account
+View a list of all accounts
+Log out
+
