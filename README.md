@@ -1,3 +1,5 @@
+**RUN THE APP BY DOWNLOADING AND RUNNING THE MAIN FILE**
+
 Java BankApp - Basic OOP Training
 This project serves as a fundamental exploration of Object-Oriented Programming (OOP) principles in the Java programming language. The BankApp is designed to simulate a simple banking system with three distinct types of accounts, each equipped with its own set of tasks. Separating concerns and assigning specific responsibilities to each class was one of main aims. 
 
